@@ -1,0 +1,16 @@
+body {
+  background-color: rgba(150, 112, 105, 0.256);
+}
+
+#mainheading {
+  color: cadetblue;
+}
+
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h3border {
+  margin-bottom: 0em;
+  
+}
